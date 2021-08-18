@@ -66,23 +66,23 @@ Main aim of this project is to find which is the best suitable algorithm accordi
 
 - <h3>Importing libraries</h3>
     
-    ![libraries](images/libraries.PNG)
+    ![libraries](images/library.PNG)
 
 - <h3>Setting parameter</h3>
 
-    ![settingparameters](images/settingparameters.PNG)
+    ![settingparameters](images/encryption.PNG)
 
 - <h3>preparing dataset</h3>
 
-    ![datasetimport](images/datasetimport.PNG)
+    ![datasetimport](images/decryption.PNG)
 
 - <h3>Function implementation</h3>
 
-    ![modelpreparing](images/modelpreparing.PNG)
+    ![modelpreparing](images/padding.PNG)
 
-- <h3>Train Network</h3>
+- <h3>Output</h3>
 
-    ![trainandtest](images/trainandtest.PNG)
+    ![trainandtest](images/output.PNG)
 
 ## Result
 
