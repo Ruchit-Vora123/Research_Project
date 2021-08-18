@@ -29,9 +29,6 @@
 
 
 
-
-
-
 ## Introduction
 Cryptography
 plays an important role to provide security to
@@ -41,14 +38,17 @@ intelligible text (human unreadable format) and
 vice-versa. Because of this only user who is
 intended to receive the information can read. Cryptography is not only used to protect our
 data but also used for user authentication.
+
+
 ## Prerequisites
-- Google colab - Tensorflow version #if not working use 1.14 version of tensforflow for palceholder
+- Google colab 
+- Tensorflow version #if not working use 1.14 version of tensforflow for palceholder
 - Numpy
 - Sklearn
-- scipy
-- PyCrypto
-- time
-- math
+- scipy (to calculate hamming distance)
+- PyCrypto(contains library for cryptography algorithms)
+- time (to calculate encryption time)
+- math 
 
 
 ## Aim
@@ -82,26 +82,24 @@ Main aim of this project is to find which is the best suitable algorithm accordi
 
 - <h3>Output</h3>
 
-    ![trainandtest](https://github.com/Ruchit-Vora123/Research_Project/blob/main/output.PNG)
-
+    ![Output](https://github.com/Ruchit-Vora123/Research_Project/blob/main/output.PNG)
+    
+    
 ## Result
 
-- This project is done very accurate with the satisfied accuracy obtained after the testing result that is about 96,77\% of testing accuracy and 97.5\% of training accuracy for the precision of the analysis for the six different position for 2D stance detection of human activities.
+- Ouput figures shows that SHA384, RSA, and DES takes large amount of time compare to other algorithms and Blowfish, SHA1, AES takes less amount of time for encryption. Blowfish and SHA1 takes less amount of time so that is efficient in software, at least on some software platforms. And DES has highest avalanche effect among symmetric key algorithms and blowfish has least avalanche effect.
 
-![confusionmatrix](images/confusionmat.PNG)
+    ![Evaluation Criteria1](https://github.com/Ruchit-Vora123/Research_Project/blob/main/result_encrpytiontime.PNG)
 
-![graph](images/graph.PNG)
+    ![Evaluation Criteria2](https://github.com/Ruchit-Vora123/Research_Project/blob/main/result_hamming.PNG)
+
 
 
 ## Future Scope
 
-- Based on a baseline of normal motion, additional study will be done into the usage of more nuanced activity classes, such as walking versus running, agitated movement against calm movement, and perhaps normal versus aberrant behaviour. 
--  A validation of dataset and will try new dataset in this model
-- A pipeline for qualitative results 
-- Adding Dropout
-- Comparison of effect of changing batch size
-
-
+- Evaluate based on some more criteria such as key size, Memory used, Entropy and Number of bits required for encryption optimally
+- Implementation of  hybrid algorithms by combining 2 or more cryptography algorithms
+- To make one Android App or Website with better user interface
 
 
 
