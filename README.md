@@ -66,23 +66,23 @@ Main aim of this project is to find which is the best suitable algorithm accordi
 
 - <h3>Importing libraries</h3>
     
-    ![libraries](images/library.PNG)
+    ![libraries](https://github.com/Ruchit-Vora123/Research_Project/blob/main/library.PNG)
 
-- <h3>Setting parameter</h3>
+- <h3>Encryption</h3>
 
-    ![settingparameters](images/encryption.PNG)
+    ![Encryption](https://github.com/Ruchit-Vora123/Research_Project/blob/main/encryption.PNG)
 
-- <h3>preparing dataset</h3>
+- <h3>Decryption</h3>
 
-    ![datasetimport](images/decryption.PNG)
+    ![datasetimport](https://github.com/Ruchit-Vora123/Research_Project/blob/main/decryption.PNG)
 
-- <h3>Function implementation</h3>
+- <h3>Padding Function</h3>
 
-    ![modelpreparing](images/padding.PNG)
+    ![Padding Function](https://github.com/Ruchit-Vora123/Research_Project/blob/main/padding.PNG)
 
 - <h3>Output</h3>
 
-    ![trainandtest](images/output.PNG)
+    ![trainandtest](https://github.com/Ruchit-Vora123/Research_Project/blob/main/output.PNG)
 
 ## Result
 
