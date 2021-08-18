@@ -22,10 +22,11 @@
 - AES.ipynb ----------> contains code for AES algorithm
 - SHA.ipynb ----------> contains code for ShA algorithm
 - Blowfish.ipynb ----------> contains code for Blowfish algorithm
+- SHA.ipynb ------> contains code for SHA1,SHA224,SHA384,SHA512
 - RSA.ipynb ---------> contains codev for RSA algorithm using python library
 - RSA_Scratch.ipynb ---> contains code for RSA algorithm from scratch
 - Images --------> Contains the iamges for the readme file
-- README.md ----> This markdown file you are reading.
+- README.md ----> This markdown file you are reading
 
 
 
@@ -46,7 +47,7 @@ data but also used for user authentication.
 - Numpy
 - Sklearn
 - scipy (to calculate hamming distance)
-- PyCrypto(contains library for cryptography algorithms)
+- PyCrypto (contains library for cryptography algorithms)
 - time (to calculate encryption time)
 - math 
 
@@ -59,7 +60,7 @@ Main aim of this project is to find which is the best suitable algorithm accordi
 
 ## Cryptography Algorithm
 - DES, AES, Blowfish ---> These algorithms are symmetric key algorithms(secret key cryptography)
-- RSA,SHA ----> These algorithms are Asymmetric key cryptography(Public key cryptography)
+- RSA, SHA ----> These algorithms are Asymmetric key cryptography(Public key cryptography)
 
 
 ## Implementation of code
